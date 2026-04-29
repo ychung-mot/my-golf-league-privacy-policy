@@ -28,7 +28,7 @@ Since the App does not collect or transmit any personal data to the internet, it
 
 ### 6. Contact Us
 If you have any questions about this Privacy Policy, please contact:
-* **Email:** [Your Email Address Here]
+* **Email:** everybodyknows@msn.com
 
 ---
 **Last Updated:** April 29, 2026
