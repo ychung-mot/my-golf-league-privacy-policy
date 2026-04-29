@@ -1,37 +1,33 @@
 # Privacy Policy
 
-**My Golf League** (hereinafter referred to as "the App") values your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, and safeguard your information.
+**My Golf League** (the "App") values your privacy. This policy explains how we handle data within the App.
 
 ---
 
-### 1. Information We Collect
-We collect minimal information necessary to provide you with the best experience.
-* **Personal Data:** [e.g., Nickname, Email address, Profile picture]
-* **Gameplay Data:** [e.g., Golf scores, Handicap, League rankings]
-* **Automatically Collected Information:** Device ID, OS version, and basic usage statistics (via analytics tools if applicable).
+### 1. Data Collection and Usage
+The App allows you to input and manage the following data:
+* **Player Names**
+* **Player Scores**
 
-### 2. How We Use Your Information
-The collected data is used for the following purposes:
-* To provide and maintain the App's core services (League management, Score tracking).
-* To identify users and manage accounts.
-* To improve app performance and develop new features.
-* To respond to customer support inquiries and send important notices.
+This data is used solely to provide the core functionality of the App—tracking your golf league progress and records.
+
+### 2. Local Storage Only (No Network Transmission)
+The most important thing to know is that **your data never leaves your device.** * All player names and scores are stored in a local file within the App's private directory on your mobile device.
+* **No data is transmitted** to our servers or any third-party servers.
+* We do not have access to, nor do we collect, the names or scores you enter.
 
 ### 3. Data Retention and Deletion
-* We retain your information as long as your account is active or as needed to provide services.
-* Users can request data deletion at any time by deleting their account within the app or contacting us via email.
+* Your data is stored on your device as long as the App is installed.
+* If you delete the App, all stored player names and scores will be permanently deleted from your device. Since we do not store this data on a server, it cannot be recovered once the App is uninstalled.
 
-### 4. Third-Party Sharing
-We do not sell or trade your personal information to third parties. We may only share data with third-party services (like Firebase or Analytics) to facilitate app functionality, or when required by law.
+### 4. Third-Party Access
+Because the App operates offline for data management, no third-party services have access to your player information or scoring records.
 
-### 5. Security
-We implement industry-standard security measures to protect your data. However, please note that no method of transmission over the internet is 100% secure.
+### 5. Children's Privacy
+Since the App does not collect or transmit any personal data to the internet, it is safe for users of all ages.
 
-### 6. Children's Privacy
-The App does not knowingly collect personal information from children under the age of 13. If we discover such data has been collected, we will delete it immediately.
-
-### 7. Contact Us
-If you have any questions regarding this Privacy Policy, please contact us at:
+### 6. Contact Us
+If you have any questions about this Privacy Policy, please contact:
 * **Email:** [Your Email Address Here]
 
 ---
