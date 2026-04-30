@@ -1,0 +1,214 @@
+{
+  "name": "BMK",
+  "year": 2026,
+  "players": [
+    {
+      "name": "Daniel Carter",
+      "group": "Mens",
+      "lastYearAverage": 84.6,
+      "monthlyScores": {
+        "4": 85.0
+      }
+    },
+    {
+      "name": "Michael Brooks",
+      "group": "Mens",
+      "lastYearAverage": 88.2,
+      "monthlyScores": {
+        "4": 89.0
+      }
+    },
+    {
+      "name": "Andrew Collins",
+      "group": "Mens",
+      "lastYearAverage": 82.9,
+      "monthlyScores": {
+        "4": 83.0
+      }
+    },
+    {
+      "name": "Kevin Parker",
+      "group": "Mens",
+      "lastYearAverage": 86.4,
+      "monthlyScores": {
+        "4": 87.0
+      }
+    },
+    {
+      "name": "Ryan Mitchell",
+      "group": "Mens",
+      "lastYearAverage": 85.1,
+      "monthlyScores": {
+        "4": 84.0
+      }
+    },
+    {
+      "name": "Jason Reed",
+      "group": "Mens",
+      "lastYearAverage": 83.7,
+      "monthlyScores": {
+        "4": 82.0
+      }
+    },
+    {
+      "name": "Ethan Walker",
+      "group": "Mens",
+      "lastYearAverage": 79.8,
+      "monthlyScores": {
+        "4": 78.0
+      }
+    },
+    {
+      "name": "Brandon Hayes",
+      "group": "Mens",
+      "lastYearAverage": 89.1,
+      "monthlyScores": {
+        "4": 90.0
+      }
+    },
+    {
+      "name": "Tyler Bennett",
+      "group": "Mens",
+      "lastYearAverage": 87.3,
+      "monthlyScores": {
+        "4": 88.0
+      }
+    },
+    {
+      "name": "Justin Cooper",
+      "group": "Mens",
+      "lastYearAverage": 92.4,
+      "monthlyScores": {
+        "4": 94.0
+      }
+    },
+    {
+      "name": "Nathan Foster",
+      "group": "Mens",
+      "lastYearAverage": 88.7,
+      "monthlyScores": {
+        "4": 87.0
+      }
+    },
+    {
+      "name": "Zachary Ward",
+      "group": "Mens",
+      "lastYearAverage": 84.2,
+      "monthlyScores": {
+        "4": 85.0
+      }
+    },
+    {
+      "name": "Eric Simmons",
+      "group": "Mens",
+      "lastYearAverage": 91.6,
+      "monthlyScores": {
+        "4": 92.0
+      }
+    },
+    {
+      "name": "Emily Johnson",
+      "group": "Womens",
+      "lastYearAverage": 87.9,
+      "monthlyScores": {
+        "4": 88.0
+      }
+    },
+    {
+      "name": "Olivia Harris",
+      "group": "Womens",
+      "lastYearAverage": 89.4,
+      "monthlyScores": {
+        "4": 89.0
+      }
+    },
+    {
+      "name": "Sophia Turner",
+      "group": "Womens",
+      "lastYearAverage": 82.5,
+      "monthlyScores": {
+        "4": 81.0
+      }
+    },
+    {
+      "name": "Grace Phillips",
+      "group": "Womens",
+      "lastYearAverage": 83.8,
+      "monthlyScores": {
+        "4": 84.0
+      }
+    },
+    {
+      "name": "Megan Richardson",
+      "group": "Womens",
+      "lastYearAverage": 86.9,
+      "monthlyScores": {
+        "4": 86.0
+      }
+    },
+    {
+      "name": "Lauren Jenkins",
+      "group": "Womens",
+      "lastYearAverage": 85.6,
+      "monthlyScores": {
+        "4": 85.0
+      }
+    },
+    {
+      "name": "Hannah Bailey",
+      "group": "Womens",
+      "lastYearAverage": 90.8,
+      "monthlyScores": {
+        "4": 91.0
+      }
+    },
+    {
+      "name": "Madison Cooper",
+      "group": "Womens",
+      "lastYearAverage": 88.1,
+      "monthlyScores": {
+        "4": 89.0
+      }
+    },
+    {
+      "name": "Chloe Stewart",
+      "group": "Womens",
+      "lastYearAverage": 81.7,
+      "monthlyScores": {
+        "4": 80.0
+      }
+    },
+    {
+      "name": "Abigail Morgan",
+      "group": "Womens",
+      "lastYearAverage": 80.9,
+      "monthlyScores": {
+        "4": 79.0
+      }
+    },
+    {
+      "name": "Natalie Price",
+      "group": "Womens",
+      "lastYearAverage": 89.8,
+      "monthlyScores": {
+        "4": 90.0
+      }
+    },
+    {
+      "name": "Rachel Evans",
+      "group": "Womens",
+      "lastYearAverage": 82.3,
+      "monthlyScores": {
+        "4": 83.0
+      }
+    },
+    {
+      "name": "Victoria Long",
+      "group": "Womens",
+      "lastYearAverage": 93.1,
+      "monthlyScores": {
+        "4": 95.0
+      }
+    }
+  ]
+}
